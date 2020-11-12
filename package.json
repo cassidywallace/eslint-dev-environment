@@ -1,0 +1,27 @@
+{
+  "name": "uncc-quiz10",
+  "version": "1.0.0",
+  "description": "Code to be used to start the Quiz 10 exercise.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-plugin-react": "^7.21.5",
+    "jest": "^26.6.3",
+    "prettier": "2.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassidywallace/eslint-dev-environment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassidywallace/eslint-dev-environment/issues"
+  },
+  "homepage": "https://github.com/cassidywallace/eslint-dev-environment#readme"
+}
